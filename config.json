@@ -1,0 +1,16 @@
+{
+    "GOOGLE_MAPS_API_KEY": "AIzaSyD4Iwd_DZDeoIftNyebsaR6l_QnKt7CxMQ",
+    "MAPBOX_API_TOKEN": "pk.eyJ1IjoidzhyIiwiYSI6IlF2Nlh6QVkifQ.D7BkmeoMI7GEkMDtg3durw",
+    "START": [51.531037, -0.080749],
+    "START_ADDR": "67 Falkirk St London N1 6SD, UK",
+    "FINISH": [51.534778, -0.080872],
+    "FINISH_ADDR": "285 Hoxton St Greater London, UK",
+    "player": {
+        "urls": [
+            "https://vimeo.com/8717262"
+        ],
+        "repeat": "single",
+        "autoplay": true,
+        "mute": true
+    }
+}
